@@ -45,6 +45,8 @@ As a senior-thesis/senior-project platform, the studio supports several testable
 
 ## Interaction design
 
+![Interactions](<images/image4.png>)
+
 `TipScript` is the core drawing component. It watches the grabbed brush's grip and trigger values, instantiates a `TrailRenderer` at the brush tip, detaches the completed stroke, and pushes each stroke onto a stack. That stack gives undo a natural last-in/first-out implementation.
 
 In-world controls call the same drawing object:
