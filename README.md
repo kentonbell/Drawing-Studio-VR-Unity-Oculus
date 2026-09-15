@@ -5,6 +5,7 @@
 ![XR](https://img.shields.io/badge/Oculus-XR_Interaction_Toolkit-5B2C83?style=flat-square)
 
 > **Featured research:** read the included IEEE AIxVR 2026 paper, [*Handwriting Recognition in VR for Enhanced Learning and Immersive Interaction Experience*](<Graduate Thesis - Handwriting Recognition.pdf>). The paper acknowledges Kenton Bell and Matthew Froese for the virtual environment, developed primarily through the Spring 2025 virtual-painting project represented by this repository.
+![Thesis Page 1](<images/ThesisPage1.png>)
 
 An immersive drawing studio built in Unity for Oculus VR. Users hold a virtual brush, draw three-dimensional trail-based strokes, choose colors from a physical palette, change brush width, undo individual strokes, or erase the canvas. That creative interaction became the environment underlying continued senior-project exploration and published research into VR handwriting recognition.
 
